@@ -10,3 +10,7 @@ section{
 	width: 600px;
 	height: 600px;
 }
+
+#query-textarea-size{
+	height: 400px;
+}
